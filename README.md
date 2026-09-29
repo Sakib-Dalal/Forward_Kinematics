@@ -143,11 +143,12 @@ $$
 
 For Ned:
 
-$$
+```math
 q_1 = \text{joint\_1}, \qquad
 q_2 = \text{joint\_2}, \qquad
 q_3 = \text{joint\_3}
-$$
+```
+
 
 The coursework gives:
 
