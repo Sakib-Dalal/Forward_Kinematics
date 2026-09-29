@@ -2,17 +2,17 @@
 
 The three active values in our code are:
 
-$$
-q_1 = \text{base_arm_motor}
-$$
+```math
+q_1 = \text{base\_arm\_motor}
+```
 
-$$
-q_2 = \text{arm_motor}
-$$
+```math
+q_2 = \text{arm\_motor}
+```
 
-$$
-q_3 = \text{shaft_linear_motor}
-$$
+```math
+q_3 = \text{shaft\_linear\_motor}
+```
 
 The coursework calls the shaft displacement $q_4$, but in our function it is the third input, so we name it $q_3$.
 
